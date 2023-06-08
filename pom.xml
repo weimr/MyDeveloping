@@ -4,11 +4,14 @@
   
   <groupId>com.weimr</groupId>
   <artifactId>MyDeveloping</artifactId>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>MyDeveloping Maven Webapp</name>
-  <url>http://maven.apache.org</url>
-  
+  <name>MyDeveloping</name>
+
+  <modules>
+    <module>study</module>
+  </modules>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -21,5 +24,5 @@
   <build>
     <finalName>MyDeveloping</finalName>
   </build>
-  
+
 </project>
