@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.character.before;
+package com.weimr.designpatterns.flyweight.character.before;
 
 import java.awt.*;
 import java.util.ArrayList;

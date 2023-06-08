@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.character.after;
+package com.weimr.designpatterns.flyweight.character.after;
 
 import java.awt.*;
 
