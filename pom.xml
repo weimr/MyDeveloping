@@ -11,7 +11,6 @@
   <modules>
     <module>study</module>
       <module>work</module>
-      <module>work/anta</module>
   </modules>
 
   <dependencies>

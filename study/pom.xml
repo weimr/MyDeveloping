@@ -15,6 +15,7 @@
     <modules>
         <module>designpatterns</module>
         <module>spock</module>
+        <module>mybatisplus</module>
     </modules>
 
     <properties>
