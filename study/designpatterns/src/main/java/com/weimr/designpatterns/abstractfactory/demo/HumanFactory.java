@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.abstractfactory;
+package com.weimr.designpatterns.abstractfactory.demo;
 
 /**
  * 工厂类定义

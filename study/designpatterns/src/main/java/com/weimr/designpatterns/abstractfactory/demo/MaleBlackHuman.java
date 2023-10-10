@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.abstractfactory;
+package com.weimr.designpatterns.abstractfactory.demo;
 
 /**
  * @title 黑色男性人种

@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.abstractfactory;
+package com.weimr.designpatterns.abstractfactory.demo;
 
 /**
  * @title 造人场景类
