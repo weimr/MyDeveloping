@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.templatemethod;
+package com.weimr.designpatterns.templatemethod.code;
 
 /**
  * 抽象模板类

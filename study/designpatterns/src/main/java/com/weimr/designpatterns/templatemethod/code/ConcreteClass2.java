@@ -1,9 +1,9 @@
-package com.weimr.designpatterns.templatemethod;
+package com.weimr.designpatterns.templatemethod.code;
 
 /**
- * 具体模板类1
+ * 具体模板类2
  */
-public class ConcreteClass1 extends AbstractClass{
+public class ConcreteClass2 extends AbstractClass{
     @Override
     protected void doSomething() {
         //业务逻辑处理

@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.templatemethod.after;
+package com.weimr.designpatterns.templatemethod.demo;
 
 /**
  * 悍马H1模型
