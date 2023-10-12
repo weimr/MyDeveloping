@@ -16,6 +16,7 @@
         <module>designpatterns</module>
         <module>spock</module>
         <module>mybatisplus</module>
+        <module>skill</module>
     </modules>
 
     <properties>
