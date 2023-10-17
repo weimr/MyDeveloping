@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.proxy.commonproxy;
+package com.weimr.designpatterns.proxy.demo.proxy;
 
 public interface IGamePlayer {
     //登录游戏

@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.proxy.forceproxy;
+package com.weimr.designpatterns.proxy.extend.forceproxy;
 
 public class GamePlayerProxy implements IGamePlayer, IProxy{
     private IGamePlayer gamePlayer = null;

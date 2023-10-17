@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.proxy.dynamic;
+package com.weimr.designpatterns.proxy.extend.dynamic.demo;
 
 import com.weimr.designpatterns.proxy.MetricsCollector;
 import com.weimr.designpatterns.proxy.RequestInfo;

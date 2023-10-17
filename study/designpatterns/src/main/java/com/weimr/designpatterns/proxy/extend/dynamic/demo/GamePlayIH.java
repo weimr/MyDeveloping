@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.proxy.dynamic;
+package com.weimr.designpatterns.proxy.extend.dynamic.demo;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

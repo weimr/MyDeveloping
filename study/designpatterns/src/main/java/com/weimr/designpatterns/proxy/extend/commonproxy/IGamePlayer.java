@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.proxy.forceproxy;
+package com.weimr.designpatterns.proxy.extend.commonproxy;
 
 public interface IGamePlayer {
     //登录游戏
@@ -7,6 +7,4 @@ public interface IGamePlayer {
     public void killBoss();
     //升级
     public void upgrade();
-    //每个人都可以找一下自己的代理
-    public IGamePlayer getProxy();
 }

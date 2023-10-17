@@ -1,4 +1,4 @@
-package com.weimr.designpatterns.proxy.forceproxy;
+package com.weimr.designpatterns.proxy.extend.forceproxy;
 
 import java.util.Objects;
 
