@@ -3,6 +3,7 @@ package com.weimr.designpatterns.iterator.demo.optimize;
 import java.util.ArrayList;
 
 /**
+ * 项目信息实现
  * @author weimr
  * @date 2024/01/04
  */
