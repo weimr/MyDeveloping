@@ -1,7 +1,5 @@
 package com.weimr.designpatterns.methodfactory.extend.singleton;
 
-import sun.awt.geom.AreaOp;
-
 import java.lang.reflect.Constructor;
 
 /**

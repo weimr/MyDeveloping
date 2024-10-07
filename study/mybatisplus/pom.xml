@@ -3,9 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.weimr</groupId>
-        <artifactId>MyDeveloping</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../../pom.xml</relativePath>
+        <artifactId>study</artifactId>
+        <version>${revision}</version>
     </parent>
     <artifactId>mybatisplus</artifactId>
     <packaging>jar</packaging>
